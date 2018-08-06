@@ -1,0 +1,60 @@
+@charset "UTF-8";
+.topsection {
+	background-color: #4D4C4C;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.middlesection {
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 100px;
+	padding-left: 0px;
+}
+.lastsection {
+	background-color: #222222;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.home-carousel {
+	padding-bottom: 10px;
+}
+.fullcarousel {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.general-padding {
+	padding-top: 64px;
+}
+
+.title-design {
+	color: #00a982;
+}
+
+.navbar-default {
+	background-color: rgba(56,178,244,0.60);
+	border-color: #e7e7e7;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px 0px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #12b1c7;
+    background-color: #ffffff;
+}
+.navbar-default .navbar-text {
+    color: #fff;
+}.navbar {
+	height: 70px;
+	padding-top: 10px;
+	border-style:none;
+	border-width: 0px;
+}
